@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "http://jonathanbalta.github.io/mini-app-de-tareas-1",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
